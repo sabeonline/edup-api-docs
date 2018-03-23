@@ -13,6 +13,7 @@ GET /watch/:session_token
 ```json
 {
   "name": "Self-learning courses",
+  "publisher": "Patrick Pinto",
   "courses": [
     {
       "name": "Welcome to EdUp",

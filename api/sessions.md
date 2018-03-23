@@ -17,6 +17,7 @@ GET /sessions/
     "name": "Self-learning courses",
     "status": "published",
     "public_url": "http://front-end-exercise.herokuapp.com/watch/0_N8y-iF",
+    "watch_count": 0,
     "created_at": "2018-03-22T10:00:39.093Z"
   },
   {
@@ -24,6 +25,7 @@ GET /sessions/
     "name": "Technology",
     "status": "draft",
     "public_url": "http://front-end-exercise.herokuapp.com/watch/qieL1a27",
+    "watch_count": 0,
     "created_at": "2018-03-22T10:01:27.601Z"
   }
 ]
